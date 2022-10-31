@@ -14,4 +14,4 @@ All files in this project are created by Mitchell Bylak. (ID: 010916781)
 	for how everything works, and the outputs from runnning the executable
 
  - README: README.txt
-	Text file containing a description for all the files within this tar file
+	Text file containing a description for all the files within this repository
